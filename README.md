@@ -1,4 +1,6 @@
-# lalala
+# Vue SFC 和 Unity Web 对接的示例项目
+
+暂时用vue-cli做演示（其实是一样的）
 
 ## Project setup
 ```
@@ -9,16 +11,3 @@ yarn install
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
